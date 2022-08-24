@@ -31,6 +31,13 @@
     height: 100%;
     
 }
+
+.work-description {
+    text-align: center;
+    font-size: 13px;
+    padding: 2%;
+}
+
 #work-text{
     text-align: center;
     font-size: 1.5em;
@@ -879,3 +886,4 @@ li span:hover:after {
     background: #555;
 
 }
+
